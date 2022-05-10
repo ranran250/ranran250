@@ -1,4 +1,4 @@
-### Hi there 👋
+### 你好，欢迎访问我的文档仓库，嘿嘿嘿 👋
 
 <!--
 **ranran250/ranran250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
